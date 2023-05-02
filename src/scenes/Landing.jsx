@@ -20,7 +20,7 @@ const Landing = ({ setSelectedPage }) => {
             <img
               alt="profile"
               className="hover:filter hover:saturate-200 transition duration-500 z-10 w-full max-w-[400px] md:max-w-[600px]"
-              src="assets/Portrait.png"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9pw62yl-7mMHFAZVmsk574pK-zvxH2BTPSrW4HfIiz4Vq0yJvYgRhx_RzUQReop89-KY&usqp=CAU"
             />
           </div>
         ) : (
